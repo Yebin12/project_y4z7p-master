@@ -1,0 +1,49 @@
+{
+    "name": "Claire's Quiz Library",
+    "quizzes": [
+        {
+            "name": "quizA",
+            "questions": [{
+                "answer": "C",
+                "optionC": "3",
+                "optionD": "4",
+                "optionA": "1",
+                "text": "1+1",
+                "optionB": "2"
+            }]
+        },
+        {
+            "name": "MOM",
+            "questions": [{
+                "answer": "C",
+                "optionC": "5",
+                "optionD": "6",
+                "optionA": "2",
+                "text": "1",
+                "optionB": "3"
+            }]
+        },
+        {
+            "name": "ee",
+            "questions": [{
+                "answer": "B",
+                "optionC": "6",
+                "optionD": "7",
+                "optionA": "4",
+                "text": "3",
+                "optionB": "5"
+            }]
+        },
+        {
+            "name": "할머니",
+            "questions": [{
+                "answer": "A",
+                "optionC": "바나나",
+                "optionD": "김치",
+                "optionA": "삼겹살",
+                "text": "할머니는 뭘 드시는가",
+                "optionB": "과자"
+            }]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Claire's quiz library",
+    "quizzes": [
+        {
+            "name": "QuizA",
+            "questions": [
+                {
+                    "answer": "B",
+                    "optionC": "3",
+                    "optionD": "4",
+                    "optionA": "1",
+                    "text": "What is 1+1?",
+                    "optionB": "2"
+                },
+                {
+                    "answer": "B",
+                    "optionC": "4",
+                    "optionD": "5",
+                    "optionA": "2",
+                    "text": "What is 1+2?",
+                    "optionB": "3"
+                }
+            ]
+        },
+        {
+            "name": "QuizB",
+            "questions": [{
+                "answer": "C",
+                "optionC": "4",
+                "optionD": "5",
+                "optionA": "2",
+                "text": "What is 2+2?",
+                "optionB": "3"
+            }]
+        }
+    ]
+}

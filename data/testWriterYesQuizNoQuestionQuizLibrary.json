@@ -1,0 +1,13 @@
+{
+    "name": "Claire's quiz library",
+    "quizzes": [
+        {
+            "name": "QuizA",
+            "questions": []
+        },
+        {
+            "name": "QuizB",
+            "questions": []
+        }
+    ]
+}
